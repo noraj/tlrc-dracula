@@ -1,0 +1,83 @@
+[cache]
+dir = "~/.cache/tlrc"
+mirror = "https://github.com/tldr-pages/tldr/releases/latest/download"
+auto_update = true
+max_age = 336
+languages = []
+
+[output]
+show_title = true
+platform_title = false
+show_hyphens = false
+example_prefix = "- "
+compact = false
+raw_markdown = false
+
+[indent]
+title = 2
+description = 2
+bullet = 2
+example = 4
+
+[style.title]
+color = { rgb = [255, 121, 198] }
+background = "default"
+bold = true
+underline = false
+italic = false
+dim = false
+strikethrough = false
+
+[style.description]
+color = { rgb = [189, 147, 249] }
+background = "default"
+bold = false
+underline = false
+italic = false
+dim = false
+strikethrough = false
+
+[style.bullet]
+color = { rgb = [80, 250, 123] }
+background = "default"
+bold = false
+underline = false
+italic = false
+dim = false
+strikethrough = false
+
+[style.example]
+color = { rgb = [139, 233, 253] }
+background = "default"
+bold = false
+underline = false
+italic = false
+dim = false
+strikethrough = false
+
+[style.url]
+color = { rgb = [255, 184, 108] }
+background = "default"
+bold = false
+underline = false
+italic = true
+dim = false
+strikethrough = false
+
+[style.inline_code]
+color = { rgb = [241, 250, 140] }
+background = "default"
+bold = false
+underline = false
+italic = true
+dim = false
+strikethrough = false
+
+[style.placeholder]
+color = { rgb = [255, 85, 85] }
+background = "default"
+bold = false
+underline = false
+italic = true
+dim = false
+strikethrough = false

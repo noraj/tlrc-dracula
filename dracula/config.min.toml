@@ -1,0 +1,20 @@
+[style.title]
+color = { rgb = [255, 121, 198] }
+
+[style.description]
+color = { rgb = [189, 147, 249] }
+
+[style.bullet]
+color = { rgb = [80, 250, 123] }
+
+[style.example]
+color = { rgb = [139, 233, 253] }
+
+[style.url]
+color = { rgb = [255, 184, 108] }
+
+[style.inline_code]
+color = { rgb = [241, 250, 140] }
+
+[style.placeholder]
+color = { rgb = [255, 85, 85] }

@@ -1,0 +1,27 @@
+[style.title]
+color = { rgb = [255, 121, 198] }
+background = { rgb = [40, 42, 54] }
+
+[style.description]
+color = { rgb = [189, 147, 249] }
+background = { rgb = [40, 42, 54] }
+
+[style.bullet]
+color = { rgb = [80, 250, 123] }
+background = { rgb = [40, 42, 54] }
+
+[style.example]
+color = { rgb = [139, 233, 253] }
+background = { rgb = [40, 42, 54] }
+
+[style.url]
+color = { rgb = [255, 184, 108] }
+background = { rgb = [40, 42, 54] }
+
+[style.inline_code]
+color = { rgb = [241, 250, 140] }
+background = { rgb = [40, 42, 54] }
+
+[style.placeholder]
+color = { rgb = [255, 85, 85] }
+background = { rgb = [40, 42, 54] }
