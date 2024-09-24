@@ -21,3 +21,11 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/tlrc/arch
   - `config.with_bg.min.toml`: **Minimal** default tlrc configuration file with Dracula theme and **Dracula** background (includes only theme configuration)
 2. Copy the configuration file to `~/.config/tlrc/config.toml`.
 3. Boom! It's working ✨
+
+If you want to enable the prefix bullet for examples using a vampire emoji, modify the following lines:
+
+```toml
+[output]
+show_hyphens = true
+example_prefix = "🧛🏻‍♂️ "
+```
