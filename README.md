@@ -1,3 +1,5 @@
+# ⚠️ Moved to https://github.com/dracula/tlrc
+
 # Dracula for [tlrc](https://github.com/tldr-pages/tlrc)
 
 > A dark theme for [tlrc](https://github.com/tldr-pages/tlrc).
